@@ -1,3 +1,5 @@
+![Cover](/Evolve/minihack_cover.jpg)
+
 Welcome, space cadet to the Bitrise Mini Hack. This simple hack will introduce you to the Bitrise platform which allows you to automate your mobile app development tasks from building through testing to deployment.
 
 By completing this hack you will have a cross-platform mobile app connected to Bitrise for automated testing and deployment, all in a few minutes. 🚀
@@ -34,9 +36,9 @@ Add a new Xamarin app to Bitrise and send it to Xamarin Test Cloud for testing. 
 9. Yay, your build passed! You should have received an email about it, too! You'll get an email about your XTC test results once they've been completed, too.
 10. You'll notice on the build details page, that there are the actual apps generated for iOS and Android, which you can simply download and install on your device. That's where the bonus challenge comes in! 🏆
 
+![T-shirt](/Evolve/minihack_tshirt_tease.jpg)
+
 ##Bonus challenge for t-shirt!
-
-
 
 Install the Sample App on your phone by setting up Code Signing and tweet a selfie with our booth. 📸
 
